@@ -1,4 +1,4 @@
-CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCreditCard,IsActiveMember,EstimatedSalary,Churn
+CustomerId,CustomerName,CreditScore,State,Gender,Age,Tenure,Balance,NumOfProducts,HasCreditCard,IsActiveMember,EstimatedSalary,Churn
 CUB001,Patel,619,Mumbai,Male,42,2,75632.45,1,1,1,85000.00,0
 CUB002,Sharma,845,Delhi,Female,35,5,124563.89,2,1,1,112000.00,0
 CUB003,Singh,602,Bangalore,Male,29,1,2345.67,1,0,0,45000.00,1
