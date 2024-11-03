@@ -8,7 +8,7 @@ CustomerId,CustomerName,CreditScore,State,Gender,Age,Tenure,Balance,NumOfProduct
 23112007,Reddy,711,Hyderabad,Male,37,4,45678.90,1,1,0,65000.00,1
 23112008,Malhotra,689,Kolkata,Female,44,7,167890.12,2,1,1,92000.00,0
 23112009,Shah,512,Ahmedabad,Male,31,1,3456.78,1,0,0,48000.00,1
-23112010,Joshi,756,Pune,Female,39,5,78901.23,2,1,1,75000.00,0
+23112010,Joshi,756,Kerala,Female,39,5,78901.23,2,1,1,75000.00,0
 23112011,Mehta,598,Mumbai,Male,46,3,5678.90,1,1,0,58000.00,1
 23112012,Chopra,842,Delhi,Female,52,9,189012.34,3,1,1,115000.00,0
 23112013,Rao,634,Bangalore,Male,28,2,4567.89,1,0,0,42000.00,1
@@ -18,7 +18,7 @@ CustomerId,CustomerName,CreditScore,State,Gender,Age,Tenure,Balance,NumOfProduct
 23112017,Kapoor,623,Hyderabad,Male,32,2,3456.78,1,0,0,49000.00,1
 23112018,Agarwal,778,Kolkata,Female,49,7,156789.23,2,1,1,89000.00,0
 23112019,Banerjee,534,Ahmedabad,Male,30,1,1234.56,1,1,0,45000.00,1
-23112020,Iyer,812,Pune,Female,43,6,167890.12,2,1,1,86000.00,0
+23112020,Iyer,812,Kerala,Female,43,6,167890.12,2,1,1,86000.00,0
 23112021,Mehra,645,Mumbai,Male,36,3,4567.89,1,0,0,54000.00,1
 23112022,Bhat,834,Delhi,Female,50,8,198765.43,3,1,1,105000.00,0
 23112023,Nair,567,Bangalore,Male,29,2,2345.67,1,1,0,47000.00,1
@@ -28,7 +28,7 @@ CustomerId,CustomerName,CreditScore,State,Gender,Age,Tenure,Balance,NumOfProduct
 23112027,Bose,678,Hyderabad,Male,31,3,4567.89,1,1,0,48000.00,1
 23112028,Trivedi,823,Kolkata,Female,46,8,187654.32,2,1,1,96000.00,0
 23112029,Chauhan,545,Ahmedabad,Male,33,2,2345.67,1,0,0,52000.00,1
-23112030,Venkatesh,798,Pune,Female,42,6,156789.23,2,1,1,85000.00,0
+23112030,Venkatesh,798,Kerala,Female,42,6,156789.23,2,1,1,85000.00,0
 23112031,Mistry,612,Mumbai,Male,38,3,3456.78,1,1,0,56000.00,1
 23112032,Gandhi,845,Delhi,Female,51,9,198765.43,3,1,1,108000.00,0
 23112033,Thakur,532,Bangalore,Male,30,2,2345.67,1,0,0,46000.00,1
@@ -38,7 +38,7 @@ CustomerId,CustomerName,CreditScore,State,Gender,Age,Tenure,Balance,NumOfProduct
 23112037,Hegde,634,Hyderabad,Male,32,2,2345.67,1,0,0,49000.00,1
 23112038,Dalal,812,Kolkata,Female,47,7,178901.23,2,1,1,91000.00,0
 23112039,Choudhury,523,Ahmedabad,Male,31,1,1234.56,1,1,0,47000.00,1
-23112040,Naidu,789,Pune,Female,43,6,156789.23,2,1,1,87000.00,0
+23112040,Naidu,789,Kerala,Female,43,6,156789.23,2,1,1,87000.00,0
 23112041,Kashyap,601,Mumbai,Male,37,3,3456.78,1,0,0,55000.00,1
 23112042,Deshpande,867,Delhi,Female,50,8,189012.34,3,1,1,102000.00,0
 23112043,Sengupta,545,Bangalore,Male,29,2,2345.67,1,1,0,48000.00,1
@@ -48,4 +48,4 @@ CustomerId,CustomerName,CreditScore,State,Gender,Age,Tenure,Balance,NumOfProduct
 23112047,Rajan,612,Hyderabad,Male,33,3,4567.89,1,1,0,51000.00,1
 23112048,Murthy,845,Kolkata,Female,46,8,189012.34,2,1,1,93000.00,0
 23112049,Prasad,567,Ahmedabad,Male,32,2,2345.67,1,0,0,50000.00,1
-23112050,Ramachandran,798,Pune,Female,41,6,156789.23,2,1,1,84000.00,0
+23112050,Ramachandran,798,Kerala,Female,41,6,156789.23,2,1,1,84000.00,0
